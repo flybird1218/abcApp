@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+abcapp-1.0.9[[:space:]]Setup.exe filter=lfs diff=lfs merge=lfs -text
+abcapp-1.0.9-full.nupkg filter=lfs diff=lfs merge=lfs -text
